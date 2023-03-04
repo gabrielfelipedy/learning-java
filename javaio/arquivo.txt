@@ -1,0 +1,4 @@
+Teste para ler arquivos do teclado
+Funciona
+
+Deixei uma Linha em branco
