@@ -1,2 +1,3 @@
-# caelum-fj11
-Exercícios do curso de Java e Orientação a Objetos da Caelum
+# Java Exercises
+
+The first programs I wrote when I started to learn Java
